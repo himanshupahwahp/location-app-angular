@@ -1,6 +1,9 @@
 # LocationApp Angular
 This project consist of a form which is used to store data of delivery carrier such as UPS, Fedex etc in database and send them the email as well. 
 
+# Link
+http://18.191.249.225:8080/location/
+
 ## Form Fields
 ```sh
   carrierName: string;
